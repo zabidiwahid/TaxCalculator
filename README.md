@@ -72,7 +72,7 @@ The response is a JSON object containing:
 
 ### Sample Response
 
-    ```json
+    
         {
           "taxAmount": 1650.0,
           "taxSlab": "Category D: 1% on income up to RM35,000, 6% on income above RM35,000",
